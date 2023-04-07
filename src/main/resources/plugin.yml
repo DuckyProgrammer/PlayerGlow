@@ -1,0 +1,12 @@
+name: PlayerGlow
+main: me.DuckyProgrammer.PlayerGlow.Main
+version: ${project.version}
+api-version: 1.13
+author: DuckyProgrammer
+commands:
+    glow:
+        description: Toggles glow on/off
+        aliases: [glowme]
+    glowcolor:
+        description: Changes the color of your glow
+        aliases: [glowcolour]
